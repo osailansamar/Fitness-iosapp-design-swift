@@ -1,0 +1,68 @@
+[
+    {
+        "title":"Get started your workout"
+    },
+    {
+           "title":"Plans",
+           "playlists":[
+           {
+               "title":"Classic",
+               "image": "image2"
+           },
+           {
+               "title":"Ninja",
+               "image": "image1"
+           },
+           {
+               "title":"Advanced",
+               "image": "image5"
+           },
+           {
+               "title":"Light",
+               "image": "image6"
+           },
+           {
+               "title":"Intermediate",
+               "image": "image6"
+           }
+           ]
+       },
+    {
+           "title":"Meet Your trainer",
+           "playlists":[
+           {
+               "title":"Sara Rivera",
+               "image": "image3"
+           },
+           {
+               "title":"Steve Ross",
+               "image": "image4"
+           },
+           {
+               "title":"Roy Elliot",
+               "image": "image1"
+           },
+           {
+               "title":"Ronnie Weber",
+               "image": "image5"
+           }
+           ]
+       },
+       {
+              "title":"Community",
+              "playlists":[
+              {
+                  "title":"Checking in: Future Plans, Health update, business talks & more",
+                  "image": "image2"
+              },
+              {
+                  "title":"New Clothing Line has Launched",
+                  "image": "image3"
+              },
+              {
+                  "title":"New 4 week program",
+                  "image": "image1"
+              }
+              ]
+          }
+]
